@@ -1,9 +1,9 @@
 <?php
 
 $db['db_host'] = 'localhost';
-$db['db_user'] = 'root';
-$db['db_pass'] = '';
-$db['db_name'] = 'ntubed_global_db';
+$db['db_user'] = 'if0_35572464';
+$db['db_pass'] = 'zakir%%$';
+$db['db_name'] = 'if0_35572464_ntubed_global_db';
 
 
 foreach($db as $key => $value){
